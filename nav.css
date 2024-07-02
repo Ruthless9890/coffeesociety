@@ -1,0 +1,25 @@
+.nav .nav-item{
+  transition: 
+    color 0.15s;
+}
+
+.nav .nav-item .nav-link {
+  color: white;
+}
+
+.nav .nav-item .nav-link:hover {
+  color: rgb(255, 233, 197);
+}
+
+.nav .nav-item .active{
+  font-weight: 600;
+  color: rgb(255, 233, 197);
+}
+
+.nav{
+  font-family: 'Eczar', serif;
+  font-weight: 700;
+}
+
+
+
